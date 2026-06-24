@@ -1,5 +1,5 @@
 // sw.js — Forged Grappling Schedule service worker
-const CACHE = 'forged-v2';
+const CACHE = 'forged-v3';
 const ASSETS = ['./'];
 
 self.addEventListener('install', e => {
